@@ -1,0 +1,28 @@
+h1 {
+    color:#ffffff;
+    font-family:'Sans Pro';
+    font-size:270%;
+}
+
+h2 {
+    color:#00BFFF;
+    font-family:'Sans Pro';
+    font-size:270%;
+}
+
+h3 {
+    color:#00BFFF;
+    font-family:'Sans Pro';
+    font-size:160%;
+}
+p,li{
+    color:C0C0C0;
+    font-family:'Sans Pro';
+    font-size:150%;
+  }
+  body {
+    background-image: url("C:\\Users\\samss\\Desktop\\Samson\\img\\background.jpg");
+    background-size: 1400px 315px;
+    background-repeat: no-repeat;
+ 
+}
